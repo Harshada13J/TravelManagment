@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+*{
+margin : 0; padding : 0;
+box-sizing: border-box;
+
+}
+header{
+	width: 100%;
+	height: 100vh;
+}
+.mainheader{
+	width: 100%;
+	height: 100px;
+	display: flex;
+	jistify-content: space-between;
+	align-items: center;
+	
+}
+
+body{
+	width:100%;
+	height:100vh;
+	background-image : url("Back1.jpg");
+	background-size: 100% 100%;
+}
